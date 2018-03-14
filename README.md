@@ -23,4 +23,4 @@ Declaring functions and attaching them to DOM objects as event listeners
 Writing nested loops and using loop variables
 Although not a requirement, you are encouraged to use jQuery to manipulate the DOM for this project.
 
- [**Instructions**](Instructinos.md)
+ [**Instructions**](Instructions.md)
