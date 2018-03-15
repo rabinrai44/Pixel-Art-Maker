@@ -1,3 +1,44 @@
+/******** GLOBAL CSS **********/
 body {
-    background-color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    background: #ffffff;
+}
+h1 {
+    color:crimson;
+    font-family: Helvetica;
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin: 1rem;
+}
+
+h3 {
+    color: darkgray;
+    margin: 1rem 0 .75rem;
+}
+h3:first-of-type {
+    margin-top: 1rem;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+table,
+tr,
+td {
+    border: silver 1px solid;
+}
+tr {
+    height: 1.25rem;
+}
+td {
+    width: 1.25rem;
+}
+input[type=number] {
+    width: 3em;
+    border: 1px solid #dcdcdc;
+}
+.pick-color {
+    color: orangered;
 }
